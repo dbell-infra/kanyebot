@@ -1,0 +1,5 @@
+terraform/.terraform
+venv
+terraform/terraform.*
+terraform/.terraform.lock.hcl
+.idea
