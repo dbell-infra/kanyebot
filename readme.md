@@ -1,4 +1,4 @@
-#Deploy a Kanye-Quote Chatbot for Webex Teams with Terraform and AWS
+# Deploy a Kanye-Quote Chatbot for Webex Teams with Terraform and AWS
 
 This repo contains code to provision a webhook endpoint using AWS Lambda, AWS API Gateway and Python 
 to implement a WebEx Teams chatbot that echos Kanye quotes into a chat room.
